@@ -1,3 +1,8 @@
+# Run app
+1. git clone
+2. `cd into project`
+3. `npm run dev`
+
 # Table of contents
 1. [Create a next.js app](#create-nextjs-app)
 2. [Add new page](#add-new-page)
